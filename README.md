@@ -1,6 +1,6 @@
 # Sentiment Analysis with TensorFlow
 
-This program implements a sentiment analysis model using TensorFlow 2.x to classify text comments as positive or negative.
+This program implements a sentiment analysis model using TensorFlow 2.x to classify text comments as positive(2), negative(0) or neutral(1).
 
 ## Requirements
 
